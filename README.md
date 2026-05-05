@@ -1,1 +1,5 @@
-# Screenshot-2026-05-05-at-17.21.13.png
+
+
+![Screenshot of the app](./assets/screenshot.png)
+
+
